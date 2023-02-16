@@ -1,0 +1,17 @@
+{
+
+ "app_title":" تطبيق المهام",
+ "language":"اللغة",
+ "theme":"السمة",
+"light":"فاتح",
+ "dark":"داكن",
+ "title":"العنوان",
+ "description":"الوصف",
+ "select_date":"التاريخ",
+ "submit":"اوافق",
+ "add_new_task":"اضف مهمة جديدة",
+ "settings":"الاعدادات",
+ "task_title":"اسم المهمة",
+  "edit_task":"تعديل المهمة",
+  "task_details":"تفاصيل المهمة"
+}
